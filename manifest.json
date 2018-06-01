@@ -20,7 +20,7 @@
       // "<all_urls>" 表示匹配所有地址
       "matches": ["<all_urls>"],
       // 多个JS按顺序注入
-      "js": ["./static/js/jquery-1.8.3.js","./static/js/content_scripts.js"],
+      "js": ["./static/js/jquery-1.8.3.js ","./static/js/content_scripts.js"],
       "run_at": "document_start"
     }
   
